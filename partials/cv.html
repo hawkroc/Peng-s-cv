@@ -69,7 +69,7 @@
         <md-list>
         <md-divider ></md-divider>
         <!--    this is eduction begin -->
-          <div id="edu" ng-show="checkEdu" >
+          <div id="edu" ng-show="checkEdu" class="fadein fadeout" >
             <md-list-item class="md-3-line"   ng-repeat="item in eduction | filter:query " >
               <md-whiteframe class="md-whiteframe-z1" layout layout-align="left">
                 <span class="blank2">
@@ -89,7 +89,7 @@
 
 
           <!--  this is skill begin-->  
-          <div id="skill"  ng-show="checkSkill"  >
+          <div id="skill"  ng-show="checkSkill" class="fadein fadeout" >
             <md-list-item class="md-3-line "   ng-repeat="item in skill | filter:query " >
               <md-whiteframe class="md-whiteframe-z1" layout layout-align="left">
                 <span class="blank2">
@@ -106,7 +106,7 @@
 
     
           <!--  this is project begin-->
-          <div id="project" ng-show="checkPro"  >
+          <div id="project" ng-show="checkPro" class="fadein fadeout" >
 
             <md-list-item class="md-3-line "   ng-repeat="item in project | filter:query " >
               <md-whiteframe class="md-whiteframe-z1" layout layout-align="left">
@@ -123,7 +123,7 @@
        <!--  this is project end -->
 
           <!--  this is interests begin-->
-          <div id="interests" ng-show="checkInt"  >
+          <div id="interests" ng-show="checkInt"  class="fadein fadeout">
             <md-list-item class="md-3-line "   ng-repeat="item in interests | filter:query " >
               <md-whiteframe class="md-whiteframe-z1" layout layout-align="left">
                 <span class="blank2">
