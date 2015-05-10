@@ -1,0 +1,20 @@
+[{
+        "face": "/img/book.svg",
+      "what": "eduction"
+
+    }, {
+        "face": "/img/pen.svg",
+      "what": "skill"
+  
+
+    }, {
+      "face": "/img/paper.svg",
+      "what": "project"
+
+    }, {
+      "face": "/img/boy.svg",
+      "what": "interest"
+
+    }
+
+  ]

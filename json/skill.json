@@ -1,0 +1,27 @@
+ [{
+    "face": "skill",
+    "what": "front-end",
+    "who": "html5, css3 ,jquery, angularjs",
+    "when": "skill",
+    "notes": "I have strong interesting in frontend developement because it can make me have more  sense of achievement.This cv is based on html5 and angularjs by me."
+  },
+
+  {
+    "face": "skill",
+    "what": "back-end(j2ee)",
+    "who": "j2ee,springmvc,restful service,so on...",
+    "when": "skill",
+    "notes": "I have more than four years experience in j2ee. I am good at use opensource framework to implement feature."
+  },
+{
+   "face": "skill",
+    "what": "Database (mysql,oracle)",
+    "who": "database design,PL/sql development",
+    "when": "skill",
+    "notes": "when I worked in infosys,i usually use pl/sql to develop stored procedure and trigger to handle huge data and complex business logic."
+  }
+
+
+
+
+  ]

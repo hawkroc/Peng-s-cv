@@ -1,0 +1,30 @@
+{
+  "name": "angular-demo",
+  "description": "A starter project for AngularJS",
+  "version": "0.1",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "1.3.x",
+    "angular-mocks": "1.3.x",
+    "jquery": "~2.1.1",
+    "angular-route": "1.3.x",
+    "angular-resource": "1.3.x",
+    "angular-animate": "1.3.x",
+    "angular-material": "~0.8.3",
+    "jquery-mousewheel": "~3.1.12"
+  },
+  "authors": [
+    "hawkroc <yinpengroc@gmail.com>"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

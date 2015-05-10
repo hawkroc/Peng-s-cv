@@ -1,0 +1,56 @@
+.arrow{
+position:absolute;
+right:25px;
+
+}
+
+span.blank2
+{
+ padding-left:15px;
+}
+
+img.mark{
+	
+}
+
+.portrait{
+position:absolute;
+top:70%;
+left:9%;
+
+}
+
+.word{
+position:absolute;
+top:80%;
+left:9%;
+
+color: #F00;
+
+}
+
+.connect{
+width: 260px;
+color: #F00;
+
+}
+
+.italic {
+  font-weight:bold;
+  font-style:italic;
+}
+.icon-contect{
+color: #000;
+width:45px;
+height:45px;
+
+}
+
+.icon-github{
+color: #000;
+width:47px;
+height:47px;
+
+}
+
+

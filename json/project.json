@@ -1,0 +1,32 @@
+ [{
+    "face": "project",
+    "what": "My project on gitHub",
+    "who": "https://github.com/hawkroc/SpringMVC-Hibernate-ehcache.git",
+    "when": "project",
+    "notes": "This is a framework which is used to develop  enterprise application.It is based on SpringMVC, Hibernate framework . I use this architecture to develop the DMS system."
+  },
+
+{
+    "face": "project",
+    "what": "My project on gitHub",
+    "who": "https://github.com/hawkroc/DMS.git",
+    "when": "project",
+    "notes": "This DMS(distribution-management-system) provide some function which Magento can not provide ."
+  },
+
+
+
+{
+    "face": "project",
+    "what": "My project on gitHub",
+    "who": "https://github.com/hawkroc/Angularjs_RestfulService.git",
+    "when": "project",
+    "notes": "This is Angularjs+ Restful service"
+  }
+
+
+
+
+
+
+  ]
