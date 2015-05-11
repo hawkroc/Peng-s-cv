@@ -24,7 +24,7 @@ left:9%;
 position:absolute;
 top:80%;
 left:9%;
-color: #F00;
+color: #F00    !important;
 }
 
 .connect{
@@ -38,16 +38,16 @@ color: #F00;
   font-style:italic;
 }
 .icon-contect{
-color: #000;
-width:45px;
-height:45px;
+color: #000    !important;
+width:45px    !important;
+height:45px      !important;
 
 }
 
 .icon-github{
-color: #000;
-width:47px;
-height:47px;
+color: #000    !important;
+width:47px    !important;
+height:47px      !important;
 
 }
 
